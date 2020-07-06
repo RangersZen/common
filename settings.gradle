@@ -1,0 +1,3 @@
+include ':common-library'
+include ':app'
+rootProject.name = "BaseCommon"
